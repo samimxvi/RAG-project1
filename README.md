@@ -1,4 +1,4 @@
-# RAG Pipeline
+# Offline RAG (OR)
 
 **Retrieval-Augmented Generation (RAG)** pipeline that runs **fully locally**. No API keys, no cloud, no cost. Ask questions about your own `.txt` and `.md` files and get answers grounded in them.
 
