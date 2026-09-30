@@ -1,0 +1,9 @@
+Acme Coffee Co. Employee Handbook (sample)
+
+Working hours: The office is open Monday to Friday, 9:00 AM to 5:30 PM. Employees may work remotely up to two days per week with manager approval.
+
+Leave policy: Full-time employees receive 24 days of paid annual leave per year. Unused leave, up to 5 days, can be carried over to the next year. Sick leave is 10 days per year and does not require a doctor's note for absences of two days or fewer.
+
+Expenses: Travel and meal expenses must be submitted within 30 days through the Expensio portal. Meals during business travel are reimbursed up to 1,500 rupees per day.
+
+Equipment: New hires receive a laptop and a monitor. Lost or damaged equipment must be reported to IT at it-help@acme.example within 24 hours.
